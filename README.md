@@ -5,16 +5,6 @@ Along with GIT, use this space for refresher of Java.
 
 1) ARMSTRONG Number
 2) PATTERNs
-            * 
-          * * 
-        * * * 
-      * * * * 
-      
-      * 
-      * * 
-      * * * 
-      * * * * 
-
 
 # How to run these programs
 Prerequisite: Java
