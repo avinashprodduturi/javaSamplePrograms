@@ -8,5 +8,7 @@ Along with GIT, use this space for refresher of Java.
 
 # How to run these programs
 Prerequisite: Java
-javac PROGRAM_NAME.JAVA 
+
+javac PROGRAM_NAME.JAVA
+
 java PROGRAM_NAME.JAVA
