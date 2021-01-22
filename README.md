@@ -1,6 +1,12 @@
-# javaSamplePrograms
-Beginner Exercise 01 - creating a branch for general java programs to get familiar with GitHub
+# Java Sample Programs
 
 This Repository is bascially to try out basic javaprgrams and also try out new gitHub features. As a beginnier, I want to try basic things out to become more familair with GitHub.
+Along with GIT, use this space for refresher of Java.
 
 1) ARMSTRONG Number
+
+
+# How to run these programs
+Prerequisite: Java
+javac PROGRAM_NAME.JAVA 
+java PROGRAM_NAME.JAVA
