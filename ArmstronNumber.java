@@ -8,7 +8,7 @@ package com.avi.learning;
 
 import java.util.Random;
 
-public class Armstrong_Demo {
+public class ArmstrongNumber {
 	
 	public static void main(String[] args) {
 		Random random = new Random();
